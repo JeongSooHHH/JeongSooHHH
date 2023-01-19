@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 </div>
 
 
+
+
+<!-- 
+
 - :fire: CTO with 5+ years of experience and proven leadership skills. Senior Software Engineer for 15+ years.<br/>
 - :zap: Exploring latest research in machine learning, metaheuristics algorithms and security.<br/>
 - :beach_umbrella: In my free time, I code for my Phd, solving optimization problems combining metaheuristics and ML.<br/>
@@ -57,7 +61,7 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT" alt="QT" width="40" height="40"/>
       <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="40" height="40"/> -->
-      <img src="https://github.com/CodedK/missing_devicons/blob/main/solidity-white.svg" title="solidity" alt="solidity" width="40" height="40"/>
+<!--       <img src="https://github.com/CodedK/missing_devicons/blob/main/solidity-white.svg" title="solidity" alt="solidity" width="40" height="40"/>
     </div>
     <hr>
     <div id="databases" align="center">
@@ -116,3 +120,5 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/DAtJCG1t3im1G/giphy.gif" width="100"/>
     </div>
 </div>
+ -->
+ -->
