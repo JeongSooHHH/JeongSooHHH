@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 https://capsule-render.vercel.app/api?
 ![header](https://capsule-render.vercel.app/api?type=wave&color=#B897FF&height=300&section=header&text=capsule%20render&fontSize=90)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 
 <div id="header">
     <div align="center">
