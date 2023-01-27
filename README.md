@@ -21,7 +21,7 @@ https://capsule-render.vercel.app/api?
 <div id="header">
     <div align="center">
     <h2 align="center">hiii 👋, I'm JeongSoo</h2>
-    <h4 align="center">I am a backend software engineer from Korea, passionate about programming, <br>Artificial Intelligence 🧠, and Startups 🚀</h4>
+    <h4 align="center">I am a backend software developer from Korea, passionate about programming, <br>Artificial Intelligence 🧠, and Startups 🚀</h4>
     <img src="https://media3.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100"/>
     </div>
 </div>
