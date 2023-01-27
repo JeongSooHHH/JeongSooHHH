@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div id="header">
     <div align="center">
     <h2 align="center">hiii 👋, I'm JeongSoo</h2>
-    <h4 align="center">I am a backend software developer from Korea, passionate about programming,
+    <h4 align="center">I am a backend software developer from Korea, passionate about programming.
         
   <br>
     <br>
