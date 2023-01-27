@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://capsule-render.vercel.app/api?
-![header](https://capsule-render.vercel.app/api?type=wave&color=#B897FF&height=300&section=header&text=capsule%20render&fontSize=90)
-  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=SeungHyun's%20GitHub&fontSize=70&animation=scaleIn)
+
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=JeongSoo's%20GitHub&fontSize=70&animation=scaleIn)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmdgus4118&count_bg=%2379C83D&title_bg=%23514949&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align='center'>
@@ -26,7 +25,15 @@ https://capsule-render.vercel.app/api?
     <h2 align="center">hiii 👋, I'm JeongSoo</h2>
     <h4 align="center">I am a backend software developer from Korea, passionate about programming,
         
-          🖥 My Tech 🖥
+  <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  
+  
+  🖥 My Tech 🖥
+      <br>
   <br>
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -43,8 +50,14 @@ https://capsule-render.vercel.app/api?
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    <img src="https://media3.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="100"/>
-    </div>
+
+
+
+
+
+  <br>
+  <br>
+
 </div>
 
 
