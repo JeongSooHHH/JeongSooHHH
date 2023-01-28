@@ -26,9 +26,9 @@ Here are some ideas to get you started:
         
   -🔭I do study to be a better Back-End developer-
     <br>
--:house: I currently learn about TypeScript and Nest.js-
+:house: I'm currently learning TypeScript and Nest.js  :house:
     <br>
--:postbox: How to reach me: space2577@gmail.com -
+:postbox: How to reach me: space2577@gmail.com :postbox:
 
 I live in Seoul, Korea, I like to learn new Tech.
 
