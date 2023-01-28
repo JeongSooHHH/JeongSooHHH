@@ -38,7 +38,7 @@ Recently, I try to study Typescript, Python , Nest.js
     <br>
     <br>
     <br>
-    <br>
+
   
   
   🖥 My Tech 🖥
@@ -64,7 +64,7 @@ Recently, I try to study Typescript, Python , Nest.js
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgus4118&show_icons=true&theme=radical) <br>
   <br>
   <br>
-🐙   About Me🐙 
+  :sunny: About Me :sunny:
 
 <a href="https://www.notion.so/Cesop-77185866fcca42a3b47de8b69f484e38"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </div>
