@@ -22,17 +22,18 @@ Here are some ideas to get you started:
 <div id="header">
     <div align="center">
     <h2 align="center">hiii 👋, I'm JeongSoo</h2>
-    <h4 align="center">I am a backend software developer from Korea, passionate about programming.
+    <h4 align="center">I am a backend developer from Korea, passionate about programming.
+      <br>
         
-  -🔭I do study to be a better Back-End developer-
-    <br>
-:house: I'm currently learning TypeScript and Nest.js  :house:
-    <br>
+  🌟 I do study to be better 🌟
+
+
+
 :postbox: How to reach me: space2577@gmail.com :postbox:
 
-I live in Seoul, Korea, I like to learn new Tech.
+:house: I live in Seoul, Korea, I like to learn new Tech. :house:
 
-Recently, I try to study Typescript, Python , Nest.js
+⏲️ Recently, I try to study Typescript, Python , Nest.js ⏲️
 
   <br>
     <br>
