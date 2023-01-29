@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 :house: I live in Seoul, Korea, I like to learn new Tech. :house:
 
-⏲️ Recently, I try to study Typescript, Python , Nest.js ⏲️
+⏲️ Recently, I'm trying to study Typescript, Nest.js. ⏲️
 
   <br>
     <br>
