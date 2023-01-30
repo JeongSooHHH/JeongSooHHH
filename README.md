@@ -67,5 +67,5 @@ Here are some ideas to get you started:
   <br>
   :sunny: About Me :sunny:
 
-<a href="https://www.notion.so/Cesop-77185866fcca42a3b47de8b69f484e38"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://velog.io/@space2577"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
