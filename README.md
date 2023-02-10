@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
   ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=JeongSoo's%20GitHub&fontSize=70&animation=scaleIn)
 
 <div align='center'>
