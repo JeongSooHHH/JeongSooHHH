@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
+
+
+
   ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=JeongSoo's%20GitHub&fontSize=70&animation=scaleIn)
 
 <div align='center'>
@@ -22,9 +24,10 @@ Here are some ideas to get you started:
 <div id="header">
     <div align="center">
       
-    <h2 align="center">hiii 👋, I'm JeongSoo</h2>
-    <h4 align="center">I am a backend developer from Korea, passionate about programming.
-      <br>
+      
+  <h2 align="center"> hiii 👋, I'm JeongSoo </h2>
+  <h4 align="center">I am a backend developer from Korea, passionate about programming.
+      
         
   🌟 I do study to be better 🌟
 
