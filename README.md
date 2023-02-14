@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-:postbox: How to reach me: space2577@gmail.com :postbox:
+:postbox: How to reach me: jeongsoo6062@gmail.com :postbox:
 
 :house: I live in Seoul, Korea, I like to learn new Tech. :house:
 
