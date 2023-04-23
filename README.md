@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <br>
   <br>    
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-    [![Nest.js](https://img.shields.io/badge/Nest.js-v8.0.0-red.svg)](https://nestjs.com/)
+  ![Nest.js](https://img.shields.io/badge/Nest.js-v8.0.0-red.svg?style=for-the-badge&logo=nestjs&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
